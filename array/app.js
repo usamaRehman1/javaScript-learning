@@ -1,7 +1,5 @@
 var showArr = document.getElementById('arrShow');
 let fruitArr = [];
-// let fruitArr = [7,4,1,0];
-let assendingArr = [];
 
 function Add(){
     let newFruit = document.getElementById('fruitVal') ;
