@@ -4,7 +4,6 @@ let text = "i am muhammad usama and i live in sher shah";
 let textToArr = text.split(" "); 
 let newTextArr = []; //empty array
 
-
 for (let i = 0; i < textToArr.length; i++) {
     //.charAt() method in JavaScript is used to return the character at a specific index in a string.
     //.toUpperCase() for capital letter
